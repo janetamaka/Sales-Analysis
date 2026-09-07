@@ -14,6 +14,6 @@ Product Performance
 Customer Demographics
 Sales Trend
 
-Key Insights:->
+Key Insights:-
 1.Total Calculated Revenue
 2. Revenue performance was calculated across all departments, electronics, fashion, furniture, Groceries,and office supplies. 
